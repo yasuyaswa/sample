@@ -1,4 +1,4 @@
-using System;  
+using System;  //This program checks the given number is prime or not
   public class PrimeNumberExample  
    {  
      public static void Main(string[] args)  
